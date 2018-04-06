@@ -14,7 +14,7 @@ import javax.swing.Timer;
 
 /**
  * モンスターストライク風ゲームアプリケーション
- * @author proglight
+ * @author cook1293
  */
 public class MonsterStrike extends JFrame{
 	MsPanel pn = new MsPanel();		//描画パネルのインスタンス
